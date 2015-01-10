@@ -7,12 +7,19 @@ Turn the function object to URL object. This library is useful to create web wor
 
 ## Installation
 
+npm:
+
     $ npm install pseudo-function
+
+bower:
+
+    $ bower install pseudo-function
 
 ## Example
 
 ```js
-var pfn = require('pseudo-function');
+// var pfn = window.PseudoFunction; // bower
+var pfn = require('pseudo-function'); // browserify
 
 var fn = pfn(function() {
   setInterval(function() {
