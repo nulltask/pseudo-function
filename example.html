@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<script src="./build/pseudo-function.js"></script>
+<script>
+var pfn = window.PseudoFunction;
+
+var fn = pfn(function() {
+  setInterval(function() {
+    self.postMessage(new Date());
+  }, 1000);
+});
+
+var worker = new Worker(fn);
+
+worker.onmessage = function(e) {
+  console.log(e.data);
+};
+
+setTimeout(function() {
+  worker.terminate();
+  fn.revoke();  // clean up pseudo function
+  console.log('terminated');
+}, 5000);
+</script>
+</html>
