@@ -10,7 +10,8 @@
   "author": "nulltask <nulltask@gmail.com>",
   "repository": "git://github.com/nulltask/pseudo-function.git",
   "scripts": {
-    "test": "zuul -- test"
+    "test": "zuul -- test",
+    "build-standalone": "browserify index.js --standalone PseudoFunction | tee build/pseudo-function.js | minify --language javascript > build/pseudo-function.min.js"
   },
   "dependencies": {
     "blob": "0.0.4",
