@@ -1,0 +1,10 @@
+ui: mocha-bdd
+browsers:
+  - name: chome
+    version: latest
+  - name: ie
+    version: latest
+  - name: firefox
+    version: latest
+  - name: safari
+    version: latest
