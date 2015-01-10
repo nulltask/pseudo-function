@@ -9,6 +9,9 @@
   ],
   "author": "nulltask <nulltask@gmail.com>",
   "repository": "git://github.com/nulltask/pseudo-function.git",
+  "scripts": {
+    "test": "zuul -- test"
+  },
   "dependencies": {
     "blob": "0.0.4",
     "function-body-regex": "0.0.2"
