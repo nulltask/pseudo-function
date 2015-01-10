@@ -1,0 +1,20 @@
+{
+  "name": "pseudo-function",
+  "main": "build/pseudo-function.js",
+  "version": "0.0.3",
+  "homepage": "https://github.com/nulltask/pseudo-function",
+  "authors": [
+    "nulltask <nulltask@gmail.com>"
+  ],
+  "description": "Turn the function object to URL object.",
+  "keywords": [
+    "worker",
+    "webworker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test"
+  ]
+}
