@@ -1,0 +1,19 @@
+{
+  "name": "pseudo-function",
+  "version": "0.0.1",
+  "description": "Turn the function object to URL object.",
+  "author": "nulltask <nulltask@gmail.com>",
+  "repository": "git://github.com/nulltask/pseudo-function.git",
+  "dependencies": {
+    "blob": "0.0.4",
+    "function-body-regex": "0.0.2"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "Readme.md"
+  ],
+  "devDependencies": {
+    "browserify": "^8.1.0"
+  }
+}
