@@ -1,12 +1,12 @@
 ui: mocha-bdd
 browsers:
   - name: chome
-    version: latest
+    version: 20..latest
   - name: ie
-    version: latest
+    version: 11..latest
   - name: firefox
-    version: latest
+    version: 12..latest
   - name: safari
-    version: latest
+    version: 6..latest
   - name: iphone
-    version: latest
+    version: 6.0..latest
