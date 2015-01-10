@@ -13,6 +13,12 @@ var Blob = require('blob');
 module.exports = PseudoFunction;
 
 /**
+ * `URL` object.
+ */
+
+var URL = window.URL || window.webkitURL;
+
+/**
  * @param {Function} fn
  * @api public
  */
