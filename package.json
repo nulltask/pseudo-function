@@ -1,6 +1,6 @@
 {
   "name": "pseudo-function",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Turn the function object to URL object.",
   "keywords": ["browserify", "worker", "webworker"],
   "author": "nulltask <nulltask@gmail.com>",
