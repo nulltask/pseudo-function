@@ -2,7 +2,11 @@
   "name": "pseudo-function",
   "version": "0.0.2",
   "description": "Turn the function object to URL object.",
-  "keywords": ["browserify", "worker", "webworker"],
+  "keywords": [
+    "browserify",
+    "worker",
+    "webworker"
+  ],
   "author": "nulltask <nulltask@gmail.com>",
   "repository": "git://github.com/nulltask/pseudo-function.git",
   "dependencies": {
@@ -15,6 +19,9 @@
     "Readme.md"
   ],
   "devDependencies": {
-    "browserify": "^8.1.0"
+    "better-assert": "^1.0.2",
+    "browserify": "^8.1.0",
+    "mocha": "^2.1.0",
+    "zuul": "^1.16.3"
   }
 }
