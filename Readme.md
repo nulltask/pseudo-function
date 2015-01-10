@@ -8,7 +8,6 @@ Turn the function object to URL object. This library is useful to create web wor
 ## Installation
 
     $ npm install pseudo-function
->>>>>>> FETCH_HEAD
 
 ## Example
 
