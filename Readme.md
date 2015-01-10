@@ -1,6 +1,8 @@
 
 # pseudo-function
 
+[![Build Status](https://travis-ci.org/nulltask/pseudo-function.svg)](https://travis-ci.org/nulltask/pseudo-function)
+
 Turn the function object to URL object. This library is useful to create web workers with inline function.
 
 ## Example
