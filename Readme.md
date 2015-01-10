@@ -3,7 +3,12 @@
 
 [![Build Status](https://travis-ci.org/nulltask/pseudo-function.svg)](https://travis-ci.org/nulltask/pseudo-function)
 
-Turn the function object to URL object. This library is useful to create web workers with inline function.
+Turn the function object to URL object. This library is useful to create web workers from inline functions.
+
+## Installation
+
+    $ npm install pseudo-function
+>>>>>>> FETCH_HEAD
 
 ## Example
 
@@ -28,10 +33,6 @@ setTimeout(function() {
   console.log('terminated');
 }, 5000);
 ```
-
-## Installation
-
-    $ npm install pseudo-function
 
 ## License
 
