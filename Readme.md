@@ -5,6 +5,15 @@
 
 Turn the function object to URL object. This library is useful to create web workers from inline functions.
 
+## Supported Browsers
+
+- Internet Explorer 11+
+- Firefox 12+
+- Google Chrome 20+
+- Safari 6+
+- iOS 6.0+
+- Android 4.4+
+
 ## Installation
 
 npm:
