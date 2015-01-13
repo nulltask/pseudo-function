@@ -9,7 +9,7 @@ Turn the function object to URL object. This library is useful to create web wor
 
 - Internet Explorer 11+
 - Firefox 12+
-- Google Chrome 20+
+- Google Chrome 26+
 - Safari 6+
 - iOS 6.0+
 - Android 4.4+
