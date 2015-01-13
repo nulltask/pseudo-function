@@ -1,6 +1,6 @@
 ui: mocha-bdd
 browsers:
-  - name: chome
+  - name: chrome
     version: 20..latest
   - name: ie
     version: 11..latest
