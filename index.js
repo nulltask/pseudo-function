@@ -50,7 +50,7 @@ PseudoFunction.prototype.toString = function() {
  */
 
 PseudoFunction.prototype.create = function(body) {
-  return URL.createObjectURL(new Blob([body], { type: 'text/script' }));
+  return URL.createObjectURL(new Blob([body], { type: 'text/javascript' }));
 };
 
 /**
