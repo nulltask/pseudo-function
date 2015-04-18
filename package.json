@@ -25,7 +25,7 @@
   "devDependencies": {
     "better-assert": "^1.0.2",
     "browserify": "^8.1.0",
-    "minify": "git://github.com/ianstormtaylor/minify#0.2.0",
+    "minify": "git://github.com/ianstormtaylor/minify#0.2.1",
     "mocha": "^2.1.0",
     "zuul": "^1.16.3"
   }
