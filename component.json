@@ -2,7 +2,7 @@
   "name": "pseudo-function",
   "repo": "nulltask/pseudo-function",
   "description": "Turn the function object to URL object.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {
     "nulltask/blob": "master",
     "nulltask/function-body-regex": "0.0.3"

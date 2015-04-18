@@ -1,7 +1,7 @@
 {
   "name": "pseudo-function",
   "main": "build/pseudo-function.js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/nulltask/pseudo-function",
   "authors": [
     "nulltask <nulltask@gmail.com>"

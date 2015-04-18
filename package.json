@@ -1,6 +1,6 @@
 {
   "name": "pseudo-function",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Turn the function object to URL object.",
   "keywords": [
     "browserify",

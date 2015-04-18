@@ -1,4 +1,9 @@
 
+0.0.6 / 2015-04-18
+==================
+
+  * fix annoying "transferred with MIME Script" logs (@amoskyler)
+
 0.0.5 / 2015-01-14
 ==================
 
