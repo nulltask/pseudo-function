@@ -3,6 +3,9 @@ node_js:
   - "0.10"
   - "0.12"
   - "iojs"
+  - "4"
+  - "5"
+  - "6"
 env:
   global:
   - secure: PW2ukFgwleaAdcm5t66GXL5jXGgiY93ZCpPuG4qLFrFJiQzgJYnfFCVDeAVur38jX+XbUNlauyE5O+vuunqDb2gNx9B0LwutbPmFMPh1QFgFN8XwtPsG0UxoGtmSCrl/g9hLD6/nr+J0J6i3yOhgmp/5dupLrAypWVpPQ4V3LrU=
